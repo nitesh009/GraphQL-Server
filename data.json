@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "2",
+      "name": "Kumar N",
+      "email": "niteshgnit3@gmail.com",
+      "age": 19
+    },
+    {
+      "id": "3",
+      "name": "K Nitesh",
+      "email": "niteshgnit3@gmail.com",
+      "age": 25
+    },
+    {
+      "name": "kn",
+      "email": "kn@yahoo.com",
+      "age": 23,
+      "id": "SJRrQFXvW"
+    },
+    {
+      "name": "kn",
+      "email": "kn@yahoo.com",
+      "age": 23,
+      "id": "rJWvQKXD-"
+    }
+  ]
+}
